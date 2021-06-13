@@ -1,0 +1,27 @@
+body {
+    font-family: 'EB Garamond', serif;
+}
+
+table.players {
+    width: 100%;
+    background-color: rgb(158, 158, 158);
+    & tr:nth-last-of-type(odd) {
+        background-color: rgb(179, 179, 179);
+    }
+    & tr:nth-of-type(even) {
+        background-color: rgb(221, 221, 221);
+    }
+}
+
+.container {
+    margin: 0 30px;
+}
+
+.header {
+    width: 100%;
+}
+
+.title {
+    float: left;
+    width: 60%;
+}

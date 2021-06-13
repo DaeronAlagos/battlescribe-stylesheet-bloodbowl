@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<roster id="fb91-5cb9-cd21-3681" name="Daeron&apos;s Disciples" battleScribeVersion="2.03" gameSystemId="bfef4c13-8961-4056-a7ab-30a35cfaf51c" gameSystemName="Blood Bowl" gameSystemRevision="28" xmlns="http://www.battlescribe.net/schema/rosterSchema">
+  <costs>
+    <cost name=" TV" typeId="ffff-7836-9be4-196c" value="1010000.0"/>
+    <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="8.0"/>
+    <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="3.0"/>
+  </costs>
+  <forces>
+    <force id="48ee-c19d-70eb-da6c" name="Standard" entryId="eea0-fbe2-d22b-c2bf" catalogueId="0a3a386d-4b6a-4389-a18b-772e4a005a12" catalogueRevision="31" catalogueName="Chaos Chosen Team">
+      <selections>
+        <selection id="a5e3-39d7-48d6-a6a7" name="Favored of..." entryId="dc55-7f90-e1b5-781f::b38d-6ca8-2092-1c48" number="1" type="upgrade">
+          <selections>
+            <selection id="6ede-0c0f-c97c-de6e" name="Khorne" entryId="dc55-7f90-e1b5-781f::1efe-81f9-ef51-5978::2d67-6981-e1c8-ce24" entryGroupId="dc55-7f90-e1b5-781f::1efe-81f9-ef51-5978::2fc0-99b0-a08c-cf06" number="1" type="upgrade">
+              <costs>
+                <cost name=" TV" typeId="ffff-7836-9be4-196c" value="0.0"/>
+                <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+                <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+              </costs>
+            </selection>
+          </selections>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="0.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="05b1-c434-9eec-0c97" name="Team Management" entryId="a6b7-0663-b308-f599" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="edc7-a837-6344-fb52" name="Treasury Gold" entryId="e0af-9f71-e284-80c8::19ad-ba99-d331-e16b" publicationId="46da-ba61-6439-83e5" number="1" type="upgrade">
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="0.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="5a1b-ec5d-7e19-8ce4" name="Team Management" entryId="a6b7-0663-b308-f599" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="7749-e979-1f26-9d79" name="Chosen Blocker - Experienced (Lvl 1)" entryId="36ec-db2d-c08b-c298::a285-8c5e-bf7d-14f7" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <profiles>
+            <profile id="36ec-db2d-c08b-c298::063b-b406-ab86-728f::917e-1747-8c82-6492" name="Chosen Blocker" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">5</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">4</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">5</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">10</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">None</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">A</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">100,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <selections>
+            <selection id="0345-4ffb-afde-f158" name="Casualties (Blocks)" entryId="36ec-db2d-c08b-c298::b043-a4ed-ae6a-1c42::6fa2-0920-eabe-29d1" entryGroupId="36ec-db2d-c08b-c298::b043-a4ed-ae6a-1c42::a9f9-2fd7-71ab-0b5d" publicationId="46da-ba61-6439-83e5" page="70" number="2" type="upgrade">
+              <costs>
+                <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="4.0"/>
+                <cost name=" TV" typeId="ffff-7836-9be4-196c" value="0.0"/>
+                <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+              </costs>
+              <categories>
+                <category id="cf52-00f8-91e9-3e16" name="Total SPP" entryId="0b6c-a8b7-7bae-b8f2" publicationId="46da-ba61-6439-83e5" primary="false"/>
+              </categories>
+            </selection>
+            <selection id="f3e7-d881-00df-c7b6" name="MVPs Awarded" entryId="36ec-db2d-c08b-c298::b043-a4ed-ae6a-1c42::3314-4344-40e2-e8ba" entryGroupId="36ec-db2d-c08b-c298::b043-a4ed-ae6a-1c42::a9f9-2fd7-71ab-0b5d" publicationId="46da-ba61-6439-83e5" page="70" number="1" type="upgrade">
+              <costs>
+                <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="4.0"/>
+                <cost name=" TV" typeId="ffff-7836-9be4-196c" value="0.0"/>
+                <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+              </costs>
+              <categories>
+                <category id="0ce1-ffcf-eeb3-f2e5" name="Total SPP" entryId="0b6c-a8b7-7bae-b8f2" publicationId="46da-ba61-6439-83e5" primary="false"/>
+              </categories>
+            </selection>
+            <selection id="e93d-0069-e6da-b65e" name="Random Primary Skill" entryId="36ec-db2d-c08b-c298::99e4-277a-fdb6-c658::0d2a-fab5-5a99-e7b3::83d7-f547-143a-abf9" entryGroupId="36ec-db2d-c08b-c298::99e4-277a-fdb6-c658::936c-0b18-3e04-d4f3" number="1" type="upgrade">
+              <costs>
+                <cost name=" TV" typeId="ffff-7836-9be4-196c" value="10000.0"/>
+                <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+                <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="3.0"/>
+              </costs>
+              <categories>
+                <category id="cb60-d5a7-4d6a-068c" name="1st Advancement" entryId="2dff-4e96-3876-0daa" primary="false"/>
+              </categories>
+            </selection>
+            <selection id="ca01-8063-6670-a600" name="Block" entryId="36ec-db2d-c08b-c298::465d-33b8-9858-e99a::c633-f8c8-a141-e57e::6c6d-47aa-0976-fce0" entryGroupId="36ec-db2d-c08b-c298::465d-33b8-9858-e99a::ac01-898f-72d4-0c3d" publicationId="543f-97f6-179f-71ca" number="1" type="upgrade">
+              <rules>
+                <rule id="36ec-db2d-c08b-c298::465d-33b8-9858-e99a::c633-f8c8-a141-e57e::166f-ae2b-09e9-f73d::85d6-6762-259b-ff52" name="Block" publicationId="46da-ba61-6439-83e5" page="76" hidden="false">
+                  <description>When a Both Down result is applied during a Block action, this player may choose to ignore it and not be Knocked Down, as described on page 57.</description>
+                </rule>
+              </rules>
+              <costs>
+                <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+                <cost name=" TV" typeId="ffff-7836-9be4-196c" value="0.0"/>
+                <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+              </costs>
+            </selection>
+          </selections>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="100000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="8d6e-78a1-e221-2c79" name="Chosen Blocker" entryId="cb40-5b0a-d25b-0a94" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="e3be-fc95-c113-d914" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+            <category id="0f80-9b73-7cab-e49a" name="Experienced (Lvl 1)" entryId="0360-963e-6a1b-82b2" publicationId="46da-ba61-6439-83e5" primary="false"/>
+          </categories>
+        </selection>
+        <selection id="9a58-982f-c935-cfbd" name="Chosen Blocker" entryId="36ec-db2d-c08b-c298::a285-8c5e-bf7d-14f7" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <profiles>
+            <profile id="36ec-db2d-c08b-c298::063b-b406-ab86-728f::917e-1747-8c82-6492" name="Chosen Blocker" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">5</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">4</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">5</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">10</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">None</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">A</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">100,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="100000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="a291-e40c-78ec-551a" name="Chosen Blocker" entryId="cb40-5b0a-d25b-0a94" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="a5ae-a680-fe8e-cfb7" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="ed80-4f0f-be25-ec4d" name="Chosen Blocker" entryId="36ec-db2d-c08b-c298::a285-8c5e-bf7d-14f7" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <profiles>
+            <profile id="36ec-db2d-c08b-c298::063b-b406-ab86-728f::917e-1747-8c82-6492" name="Chosen Blocker" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">5</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">4</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">5</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">10</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">None</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">A</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">100,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="100000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="1b82-9954-29a8-b104" name="Chosen Blocker" entryId="cb40-5b0a-d25b-0a94" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="2cbb-707b-3cfb-bfc7" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="7004-0cb8-b26c-9098" name="Chosen Blocker" entryId="36ec-db2d-c08b-c298::a285-8c5e-bf7d-14f7" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <profiles>
+            <profile id="36ec-db2d-c08b-c298::063b-b406-ab86-728f::917e-1747-8c82-6492" name="Chosen Blocker" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">5</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">4</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">5</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">10</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">None</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">A</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">100,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="100000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="31a1-6c29-f753-b725" name="Chosen Blocker" entryId="cb40-5b0a-d25b-0a94" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="b2c8-3a73-0dc9-770f" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="2479-26a8-1c24-cba5" name="Beastman Runner" entryId="9d44-4dcc-db63-a145::c960-16ff-cb74-b172" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <rules>
+            <rule id="9d44-4dcc-db63-a145::987f-e743-78cc-6f20::e8dc-51af-cfa7-2f74" name="Horns" publicationId="46da-ba61-6439-83e5" page="78" hidden="false">
+              <description>When this player performs a Block action as part of a Blitz action (but not on its own), you may apply a +1 modifier to this player’s Strength characteristic. This modifier is applied before counting assists, before applying any other Strength modifiers and before using any other Skills or Traits.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="9d44-4dcc-db63-a145::911b-6260-b5a8-3c01::a4b5-ae86-51c8-3f80" name="Beastman Runner" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">6</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">3</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">4</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">9</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">Horns</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">AP</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">60,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="60000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="42cf-5135-abcc-af31" name="Beastman Runner" entryId="2a83-45c5-b194-1950" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="3e05-5354-8141-4a37" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="1b87-8fdd-c05e-9664" name="Beastman Runner" entryId="9d44-4dcc-db63-a145::c960-16ff-cb74-b172" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <rules>
+            <rule id="9d44-4dcc-db63-a145::987f-e743-78cc-6f20::e8dc-51af-cfa7-2f74" name="Horns" publicationId="46da-ba61-6439-83e5" page="78" hidden="false">
+              <description>When this player performs a Block action as part of a Blitz action (but not on its own), you may apply a +1 modifier to this player’s Strength characteristic. This modifier is applied before counting assists, before applying any other Strength modifiers and before using any other Skills or Traits.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="9d44-4dcc-db63-a145::911b-6260-b5a8-3c01::a4b5-ae86-51c8-3f80" name="Beastman Runner" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">6</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">3</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">4</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">9</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">Horns</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">AP</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">60,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="60000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="3d2c-f7e3-fd67-f914" name="Beastman Runner" entryId="2a83-45c5-b194-1950" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="8624-78ff-7394-c031" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="7d10-82a5-bd6b-9639" name="Beastman Runner" entryId="9d44-4dcc-db63-a145::c960-16ff-cb74-b172" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <rules>
+            <rule id="9d44-4dcc-db63-a145::987f-e743-78cc-6f20::e8dc-51af-cfa7-2f74" name="Horns" publicationId="46da-ba61-6439-83e5" page="78" hidden="false">
+              <description>When this player performs a Block action as part of a Blitz action (but not on its own), you may apply a +1 modifier to this player’s Strength characteristic. This modifier is applied before counting assists, before applying any other Strength modifiers and before using any other Skills or Traits.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="9d44-4dcc-db63-a145::911b-6260-b5a8-3c01::a4b5-ae86-51c8-3f80" name="Beastman Runner" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">6</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">3</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">4</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">9</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">Horns</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">AP</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">60,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="60000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="5af2-2595-faa0-d792" name="Beastman Runner" entryId="2a83-45c5-b194-1950" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="849d-0b1b-6219-1308" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="f3d4-43f7-3310-bbda" name="Beastman Runner" entryId="9d44-4dcc-db63-a145::c960-16ff-cb74-b172" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <rules>
+            <rule id="9d44-4dcc-db63-a145::987f-e743-78cc-6f20::e8dc-51af-cfa7-2f74" name="Horns" publicationId="46da-ba61-6439-83e5" page="78" hidden="false">
+              <description>When this player performs a Block action as part of a Blitz action (but not on its own), you may apply a +1 modifier to this player’s Strength characteristic. This modifier is applied before counting assists, before applying any other Strength modifiers and before using any other Skills or Traits.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="9d44-4dcc-db63-a145::911b-6260-b5a8-3c01::a4b5-ae86-51c8-3f80" name="Beastman Runner" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">6</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">3</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">4</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">9</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">Horns</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">AP</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">60,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="60000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="5f59-2ca5-ee96-2cf1" name="Beastman Runner" entryId="2a83-45c5-b194-1950" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="7711-aa3e-19a3-04de" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="1842-85aa-695c-a34f" name="Beastman Runner" entryId="9d44-4dcc-db63-a145::c960-16ff-cb74-b172" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <rules>
+            <rule id="9d44-4dcc-db63-a145::987f-e743-78cc-6f20::e8dc-51af-cfa7-2f74" name="Horns" publicationId="46da-ba61-6439-83e5" page="78" hidden="false">
+              <description>When this player performs a Block action as part of a Blitz action (but not on its own), you may apply a +1 modifier to this player’s Strength characteristic. This modifier is applied before counting assists, before applying any other Strength modifiers and before using any other Skills or Traits.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="9d44-4dcc-db63-a145::911b-6260-b5a8-3c01::a4b5-ae86-51c8-3f80" name="Beastman Runner" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">6</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">3</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">4</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">9</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">Horns</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">AP</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">60,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="60000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="1a7a-ffb8-0f4e-4017" name="Beastman Runner" entryId="2a83-45c5-b194-1950" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="4e4d-ec1c-649c-d4b3" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="d3ba-6979-d5fe-f865" name="Beastman Runner" entryId="9d44-4dcc-db63-a145::c960-16ff-cb74-b172" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <rules>
+            <rule id="9d44-4dcc-db63-a145::987f-e743-78cc-6f20::e8dc-51af-cfa7-2f74" name="Horns" publicationId="46da-ba61-6439-83e5" page="78" hidden="false">
+              <description>When this player performs a Block action as part of a Blitz action (but not on its own), you may apply a +1 modifier to this player’s Strength characteristic. This modifier is applied before counting assists, before applying any other Strength modifiers and before using any other Skills or Traits.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="9d44-4dcc-db63-a145::911b-6260-b5a8-3c01::a4b5-ae86-51c8-3f80" name="Beastman Runner" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">6</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">3</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">4</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">9</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">Horns</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">AP</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">60,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="60000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="0d45-146c-abef-3ccc" name="Beastman Runner" entryId="2a83-45c5-b194-1950" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="8bc1-63c0-58a8-3ecb" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="b2a4-2593-20ec-4139" name="Beastman Runner" entryId="9d44-4dcc-db63-a145::c960-16ff-cb74-b172" publicationId="46da-ba61-6439-83e5" page="" number="1" type="model">
+          <rules>
+            <rule id="9d44-4dcc-db63-a145::987f-e743-78cc-6f20::e8dc-51af-cfa7-2f74" name="Horns" publicationId="46da-ba61-6439-83e5" page="78" hidden="false">
+              <description>When this player performs a Block action as part of a Blitz action (but not on its own), you may apply a +1 modifier to this player’s Strength characteristic. This modifier is applied before counting assists, before applying any other Strength modifiers and before using any other Skills or Traits.</description>
+            </rule>
+          </rules>
+          <profiles>
+            <profile id="9d44-4dcc-db63-a145::911b-6260-b5a8-3c01::a4b5-ae86-51c8-3f80" name="Beastman Runner" publicationId="46da-ba61-6439-83e5" page="109" hidden="false" typeId="6abd-9371-31b8-653a" typeName="Player">
+              <characteristics>
+                <characteristic name="MA" typeId="d248-b05f-7c74-d8e3">6</characteristic>
+                <characteristic name="ST" typeId="120f-0f56-f450-196c">3</characteristic>
+                <characteristic name="AG" typeId="29f4-c9a2-f996-4723">3</characteristic>
+                <characteristic name="PA" typeId="90cd-0493-9510-60b5">4</characteristic>
+                <characteristic name="AV" typeId="c77a-49e5-750a-1adc">9</characteristic>
+                <characteristic name="Skills &amp; Traits" typeId="aa6d-1678-d4d2-a97d">Horns</characteristic>
+                <characteristic name="Primary" typeId="fda4-6261-f0d2-ba0d">GMS</characteristic>
+                <characteristic name="Secondary" typeId="9491-8b10-7b30-9358">AP</characteristic>
+                <characteristic name="Cost" typeId="ee01-7448-8c3f-a882">60,000</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="60000.0"/>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="4215-0258-5e7a-061f" name="Beastman Runner" entryId="2a83-45c5-b194-1950" publicationId="46da-ba61-6439-83e5" primary="false"/>
+            <category id="3e6a-5b24-44fd-5cb0" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="true"/>
+          </categories>
+        </selection>
+        <selection id="9faf-4ba5-bd34-ed20" name="Team Re-Rolls" entryId="8435-608c-efe1-f84d::9350-0bc7-c2fc-7af5" publicationId="46da-ba61-6439-83e5" number="1" type="upgrade">
+          <selections>
+            <selection id="d332-0a07-f3bb-a969" name="Team Re-Rolls (Double Gold Cost Post Creation)" entryId="8435-608c-efe1-f84d::a05d-6dd0-ab90-946c" publicationId="46da-ba61-6439-83e5" number="3" type="unit">
+              <costs>
+                <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+                <cost name=" TV" typeId="ffff-7836-9be4-196c" value="180000.0"/>
+                <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+              </costs>
+            </selection>
+          </selections>
+          <costs>
+            <cost name=" Total SPP" typeId="39e2-ec20-0c67-eba6" value="0.0"/>
+            <cost name=" TV" typeId="ffff-7836-9be4-196c" value="0.0"/>
+            <cost name=" Used SPP" typeId="069c-526e-7481-6bb7" value="0.0"/>
+          </costs>
+          <categories>
+            <category id="d16c-8de8-f9b6-1e10" name="Team Management" entryId="a6b7-0663-b308-f599" primary="true"/>
+          </categories>
+        </selection>
+      </selections>
+      <publications>
+        <publication id="1843-a5de-a33a-9e1b" name="Spike#7"/>
+        <publication id="46da-ba61-6439-83e5" name="Core Rules Book"/>
+        <publication id="8c2d-0b8c-484b-6789" name="Spike#3"/>
+        <publication id="83ae-12ad-0093-c537" name="Spike#9"/>
+        <publication id="543f-97f6-179f-71ca" name="Spike#5"/>
+        <publication id="440b-48bb-12dd-90e4" name="Teams of Legend"/>
+        <publication id="4eb7-b2ac-e8c7-4380" name="Spike#10"/>
+        <publication id="5528-2d35-d0f4-165f" name="Spike#8"/>
+        <publication id="a724-bc8d-f22a-3f61" name="Spike#1"/>
+        <publication id="e3e7-0556-2064-f3a9" name="White Dwarf"/>
+        <publication id="9c52-d523-b87f-3a3f" name="Spike#2"/>
+        <publication id="8e57-7262-dd22-3f40" name="Spike#4"/>
+        <publication id="6ebf-d831-0023-9765" name="Spike#6"/>
+      </publications>
+      <categories>
+        <category id="d5cb-b671-b4bc-743f" name="Uncategorised" entryId="(No Category)" primary="false"/>
+        <category id="72ce-260f-d434-910e" name="Players" entryId="ef36-92eb-8b79-1a1f" primary="false"/>
+        <category id="0182-a49d-4aa3-877e" name="Team Management" entryId="a6b7-0663-b308-f599" primary="false"/>
+        <category id="3ff7-e427-ec04-50ad" name="Inducements" entryId="8526-a57c-c848-4d31" primary="false"/>
+        <category id="7efe-4b98-a8a6-c3b4" name="(In)Famous Coaching Staff" entryId="0b84-c59e-fbf9-8c16" primary="false"/>
+        <category id="7f8c-f409-8972-a682" name="Dead Players" entryId="3634-f4ae-b277-30bc" publicationId="46da-ba61-6439-83e5" primary="false"/>
+        <category id="d50a-2cf4-238d-e7d5" name="Missing a Game" entryId="ce3b-e531-b6b3-0b3b" publicationId="46da-ba61-6439-83e5" primary="false"/>
+        <category id="c4c3-3979-7ebc-191d" name="Pre-Match Setup" entryId="fdc7-89fb-c7d0-4791" primary="false"/>
+      </categories>
+    </force>
+  </forces>
+</roster>
